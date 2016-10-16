@@ -34,9 +34,9 @@ return [
         'why_support' => [
             'title' => '¿Por qué debo apoyar osu!?',
             'blocks' => [
-                'dev' => 'Desarollado y mantenido principalmente por un hombre en Australia',
-                'time' => 'Toma demasiado tiempo mantenerlo funcionando al punto de no poder llamarlo un "hobby".',
-                'ads' => 'Sin anuncios en ningún lado. <br/><br/>
+                'dev' => 'Desarollado y mantenido principalmente por una persona en Australia',
+                'time' => 'Requiere demasiado tiempo mantenerlo funcionando, hasta el punto de no poder llamarlo un "hobby".',
+                'ads' => 'Sin anuncios. <br/><br/>
                         Al contrario que el 99.95% de la web, no obtenemos ingresos poniéndote cosas en tu cara.',
                 'goodies' => '¡Obtienes algunos beneficios!',
             ],
@@ -102,7 +102,7 @@ return [
         ],
         'convinced' => [
             'title' => '¡Estoy convencido! :D',
-            'support' => 'Apoyar osu!',
+            'support' => 'Ayudar a osu!',
             'gift' => 'o regalar supporter a otros jugadores',
             'instructions' => 'clic al botón del corazón para proceder a la osu!store',
         ],
